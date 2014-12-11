@@ -29,7 +29,7 @@ Select number of mosaics the photomosaic image contains, the higher this number 
 
 Enter precision of the photomosaic image (This is an experimental feature, the higher the number is more precise the output should be, given that you have large set of mosaics)
 
-Sample results can be downloaded from [here](http://goo.gl/0JBA3a)
+**Sample results can be downloaded from [here](http://goo.gl/0JBA3a)**
 
 
 ![Example photo mosaic](https://dl.dropbox.com/s/m9j08lwgxt9d55s/GUI.jpg)
