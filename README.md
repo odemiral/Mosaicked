@@ -28,9 +28,13 @@ Enter the ratio of mosaics (all the images in the folder will be converted to th
 Select number of mosaics the photomosaic image contains, the higher this number is more precise the image will look. (This is an approximation, program will automatically round it up to the next possible number based on the specified ratio)
 
 Enter precision of the photomosaic image (This is an experimental feature, the higher the number is more precise the output should be, given that you have large set of mosaics)
+
+Sample results can be downloaded from [here](http://goo.gl/0JBA3a)
+
+
 ![Example photo mosaic](https://dl.dropbox.com/s/m9j08lwgxt9d55s/GUI.jpg)
 ![Example photo mosaic](https://dl.dropbox.com/s/zcfiyc6julqty65/Star%20Wars%20Mosaic%20Example.jpg)
 
-Sample results can be downloaded from [here](http://goo.gl/0JBA3a)
+
 
   
