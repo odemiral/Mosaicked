@@ -5,16 +5,16 @@ A [Photomosaic](http://en.wikipedia.org/wiki/Photographic_mosaic) generator writ
 Given base image and directory of sub-images, it constructs an image using only sub-images such a way that it resembles the base image.
 
 How To Compile
-=====================
+------------------
 open .pro file in QtCreator to compile.
 
 Dependency
-=====================
+------------------
 Requires Qt 4.x or higher.
 
 
 Usage
-=====================
+------------------
 Select a base picture to be used to construct the photomosaic image.
 
 Select a directory where sub-images (mosaics) located
