@@ -1,4 +1,4 @@
-Photomosaic Generator
+Mosaicked
 =====================
 A [Photomosaic](http://en.wikipedia.org/wiki/Photographic_mosaic) generator written in C++ using Qt. 
 
